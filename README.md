@@ -6,7 +6,7 @@ To get started, clone this repository to your local machine:
 
 ```shell
 git clone https://github.com/luc10/gree-api-client.git
-cd your-repository-name
+cd gree-api-client
 pip3 install -r requirements.txt
 
 ```
