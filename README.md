@@ -1,5 +1,10 @@
 # Gree API Client
-This is a Python client for the Gree API, designed to help you retrieve information about your connected Gree devices.
+This is a Python client for the Gree API, designed to help you retrieve information about your connected Gree and Cooper & Hunter devices.
+
+- [Gree+ Android App](https://play.google.com/store/apps/details?id=com.gree.greeplus)
+- [Gree+ iOS App](https://apps.apple.com/app/gree/id1167857672)
+- [EWPE Smart Android App](https://play.google.com/store/apps/details?id=com.gree.ewpesmart)
+- [EWPE Smart iOS App](https://apps.apple.com/app/ewpe-smart/id1189467454)
 
 ## Installation
 To get started, clone this repository to your local machine:
